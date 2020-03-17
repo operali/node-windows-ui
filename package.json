@@ -1,0 +1,13 @@
+{
+  "name": "node-windows-ui",
+  "main": "index.js",
+  "repository": "https://github.com/operali/node-windows-ui.git",
+  "author": "<lxf0525@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "dependencies": {
+    "typescript": "^3.8.3"
+  }
+}
