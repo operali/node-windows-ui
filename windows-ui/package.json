@@ -1,7 +1,16 @@
 {
   "name": "windows-native-ui",
-  "version": "0.0.1",
+  "version": "0.1.2",
   "main": "index.js",
+  "homepage": "https://github.com/operali/node-windows-ui",
+  "repository": "https://github.com/operali/node-windows-ui",
   "types": "index.d.ts",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "windows",
+    "win32",
+    "native",
+    "typescript",
+    "GUI"
+  ]
 }
